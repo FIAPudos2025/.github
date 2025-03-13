@@ -1,12 +1,6 @@
-## Hi there 👋
+#Fiapudos 2025
 
-<!--
+Seja bem-vindo(a)!
+Organização dedicada ao armazenamento e versionamento de códigos dos repositórios acadêmicos. Os mesmos criados durante o curso de Engenharia de Software na FIAP.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Acesse um de nossos trabalhos!
